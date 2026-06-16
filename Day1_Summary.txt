@@ -1,0 +1,27 @@
+Bluestock Mutual Fund Analytics Capstone Project
+
+Day 1 Progress Report
+
+Tasks Completed:
+1. Created project folder structure.
+2. Imported all 10 datasets into the project.
+3. Set up Python environment in VS Code.
+4. Configured Jupyter Notebook.
+5. Loaded and verified all datasets using Pandas.
+6. Checked dataset dimensions and column names.
+7. Created data ingestion notebook.
+
+Datasets Processed:
+- Fund Master
+- NAV History
+- AUM by Fund House
+- Monthly SIP Inflows
+- Category Inflows
+- Industry Folio Data
+- Scheme Performance
+- Investor Transactions
+- Portfolio Holdings
+- Benchmark Indices
+
+Status:
+Day 1 completed successfully.
