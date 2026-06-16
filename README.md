@@ -146,6 +146,23 @@ Power BI Dashboard
 ---
 
 ## Power BI Dashboard Features
+## Dashboard Preview
+
+### Industry Overview
+
+![Industry Overview](screenshots/Industry_Overview.png)
+
+### Fund Performance
+
+![Fund Performance](screenshots/Fund_Performance.png)
+
+### Fund Details
+
+![Fund Details](screenshots/Fund_Details.png)
+
+### Investor Analytics
+
+![Investor Analytics](screenshots/Investor_Analytics.png)
 
 - Investor Analytics
 - Fund Performance Monitoring
